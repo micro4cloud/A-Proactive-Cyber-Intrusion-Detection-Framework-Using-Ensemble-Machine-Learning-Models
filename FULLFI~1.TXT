@@ -1,0 +1,13 @@
+This project implements the Hybrid Deep Learning Intrusion Detection System (HDL-IDS)
+proposed in the research paper.
+
+Key Features:
+- CNN for spatial feature extraction
+- LSTM for temporal modeling
+- Attention mechanism for feature prioritization
+- Ready for federated learning extension
+- Evaluation metrics: Accuracy, Precision, Recall, F1, MCC, AUC
+
+Dataset:
+Kaggle Intrusion Detection Dataset:
+https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset
